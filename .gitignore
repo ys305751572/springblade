@@ -1,0 +1,22 @@
+# maven #
+target
+
+logs
+
+# windows #
+Thumbs.db
+
+# Mac #
+.DS_Store
+
+# eclipse #
+.project
+.classpath
+.log
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/target
